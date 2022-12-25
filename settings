@@ -1,0 +1,9 @@
+UnlockClient=true
+UnlockStudio=false
+FPSCapValues=[30.000000, 60.000000, 75.000000, 120.000000, 144.000000, 165.000000, 240.000000, 360.000000]
+FPSCapSelection=0
+FPSCap=0.000000
+CheckForUpdates=true
+NonBlockingErrors=true
+SilentErrors=false
+QuickStart=false
